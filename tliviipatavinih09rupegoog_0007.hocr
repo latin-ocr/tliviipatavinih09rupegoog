@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih09rupegoog/tliviipatavinih09rupegoog_0007.png"; bbox 0 0 3159 4950; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 566 1709 2271 1834">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 566 1709 2271 1834">
+     <span class='ocr_line' id='line_1_1' title="bbox 566 1709 2271 1834; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 566 1709 584 1718; x_wconf 59' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 741 1727 862 1831; x_wconf 91' lang='grc' dir='ltr'><strong>Τ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 981 1727 1386 1832; x_wconf 91' lang='lat' dir='ltr'><strong>LIVII</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1503 1727 2271 1834; x_wconf 90' lang='lat' dir='ltr'><strong>PATAVINI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1049 2063 1985 2152">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1049 2063 1985 2152">
+     <span class='ocr_line' id='line_1_2' title="bbox 1049 2063 1985 2152; baseline 0.001 -3"><span class='ocrx_word' id='word_1_5' title='bbox 1049 2063 1985 2152; x_wconf 78' lang='lat' dir='ltr'>HISTORIARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 847 2371 2166 2444">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 847 2371 2166 2444">
+     <span class='ocr_line' id='line_1_3' title="bbox 847 2371 2166 2444; baseline 0.003 -11"><span class='ocrx_word' id='word_1_6' title='bbox 847 2371 1150 2436; x_wconf 77' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1231 2373 1428 2444; x_wconf 77' lang='lat' dir='ltr'><strong>QUI</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1509 2371 2166 2438; x_wconf 75' lang='lat' dir='ltr'>SUPBRSUNT.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1264 2826 1753 2897">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1264 2826 1753 2897">
+     <span class='ocr_line' id='line_1_4' title="bbox 1264 2826 1753 2897; baseline 0.002 -2"><span class='ocrx_word' id='word_1_9' title='bbox 1264 2826 1480 2897; x_wconf 73' lang='lat' dir='ltr'><strong>vol..</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1525 2828 1753 2896; x_wconf 83' lang='lat' dir='ltr'><strong>xlx.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
